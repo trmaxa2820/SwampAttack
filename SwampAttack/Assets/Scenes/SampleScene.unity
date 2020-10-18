@@ -1737,7 +1737,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.90700006, y: 0.26251853}
   m_AnchorMax: {x: 0.99447924, y: 0.41614816}
-  m_AnchoredPosition: {x: 0.28997803, y: 0.5}
+  m_AnchoredPosition: {x: 0.29003906, y: 0.5}
   m_SizeDelta: {x: 1.7763519, y: -0.8639221}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &557093698
@@ -4698,10 +4698,10 @@ MonoBehaviour:
   _waves:
   - Template: {fileID: 249600817962170291, guid: 09de647b648292f46b73fac58a84fccb, type: 3}
     Delay: 1
-    Count: 5
-  - Template: {fileID: 249600817962170291, guid: 09de647b648292f46b73fac58a84fccb, type: 3}
+    Count: 2
+  - Template: {fileID: 3110808165958672787, guid: d8e98e05cb7b2384e9f34e8d86c409c4, type: 3}
     Delay: 0.5
-    Count: 10
+    Count: 1
   _spawnPoint: {fileID: 1425578634}
   _player: {fileID: 1873040048}
 --- !u!4 &1425578634
@@ -4790,7 +4790,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
   m_AnchorMin: {x: 0.90700006, y: 0.41614816}
   m_AnchorMax: {x: 0.99268746, y: 0.5694814}
-  m_AnchoredPosition: {x: 1.789978, y: 0.099998474}
+  m_AnchoredPosition: {x: 1.7900391, y: 0.1000061}
   m_SizeDelta: {x: 4.776352, y: 0.13607788}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1517144119
@@ -5247,7 +5247,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.29500002, y: 0.307}
   m_AnchorMax: {x: 0.744, y: 0.67200005}
-  m_AnchoredPosition: {x: -5.28, y: 0.025501251}
+  m_AnchoredPosition: {x: -5.279999, y: 0.025497437}
   m_SizeDelta: {x: 4.1191483, y: -0.051086426}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1763207839
